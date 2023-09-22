@@ -226,8 +226,7 @@ In document (Ref: 7) has been designed a table of Detections and Actions, the ta
 generate each interlock system and the actuations related with each detection. Table is shown in the following figure.
 Those signals are called Detections and Actions and are managed by the Central Controller.
 
-![Tabla Descripción generada automáticamente con confianza baja](./media/media/image3.png){width="6.298611111111111in"
-height="2.2583333333333333in"}
+![Tabla Descripción generada automáticamente con confianza baja](./media/media/image3.png)
 
 Fig. 1 Detections and Actions table v4.0 (see appendix 1).
 
@@ -235,7 +234,7 @@ Fig. 1 Detections and Actions table v4.0 (see appendix 1).
 
 The graphical user interface (UI) designed to operate the GIS is shown in the following figure.
 
-![](./media/media/image4.png){width="6.298611111111111in" height="3.9347222222222222in"}
+![](./media/media/image4.png)
 
 Fig. 2 General Overview.
 
@@ -277,7 +276,7 @@ detail.
 A common navigation bar is located on the left side of the screen (see Fig. 3). The following sections
 ([4.2]{.underline}, [4.3]{.underline}) describe the functionality of the buttons on the navigation bar.
 
-![](./media/media/image5.png){width="6.298611111111111in" height="3.9784722222222224in"}
+![](./media/media/image5.png)
 
 Fig. 3 Navigation bar.
 
@@ -285,14 +284,14 @@ On the botton side of the screen there is the diagnostic information (see Fig. 4
 navigation button that opens the diagnostic list and log screens, to see further information go to section
 [4.6]{.underline}.
 
-![](./media/media/image6.png){width="6.298611111111111in" height="3.970138888888889in"}
+![](./media/media/image6.png)
 
 Fig. 4 Diagnostic information bar.
 
 On the top of the screens there is also information about the current page selected, the user logged in and the date and
 time (see Fig. 5).
 
-![](./media/media/image7.png){width="6.298611111111111in" height="3.938888888888889in"}
+![](./media/media/image7.png)
 
 Fig. 5 Information data.
 
@@ -305,7 +304,7 @@ navigator bar (Fig. 6) to access the following options:
 
 -   Information: project information like the software project running on the controllers.
 
-![](./media/media/image8.png){width="6.298611111111111in" height="3.933333333333333in"}
+![](./media/media/image8.png)
 
 Fig. 6 HOME page.
 
@@ -317,7 +316,7 @@ safety information of that area. These screens are described in section [4.3]{.u
 
 Also, besides each navigation button there are two indicators: system state indicator and system bypass indicator.
 
-![](./media/media/image9.png){width="3.9760247156605426in" height="1.7074551618547682in"}
+![](./media/media/image9.png)
 
 Fig. 7 HOME page navigation button and indicators of each system.
 
@@ -335,27 +334,27 @@ The interpretation of the indicators is the following one (also, visual interpre
 
     -   Red color with text "!": unsafe condition, at least one error detected.
 
-![](./media/media/image10.png){width="6.298611111111111in" height="1.1652176290463692in"}
+![](./media/media/image10.png)
 
 Fig. 8 Visual interpretation of indicators.
 
 Additionally, those two indicators are implemented on the navigation bar, as it can be seen in Fig. 9, to determine the
 subsystem status, without having to go to the home screen.
 
-![](./media/media/image11.png){width="2.540916447944007in" height="2.5682370953630795in"}
+![](./media/media/image11.png)
 
 Fig. 9 Indicators on navigation bar.
 
 ### Det-Act: Central Controller I/O List
 
-![](./media/media/image12.png){width="0.9692650918635171in" height="4.982503280839895in"}
+![](./media/media/image12.png)
 
 Fig. 10 "ALL" navigation button to access Central Controller I/O List
 
 This button opens a new page, showing the status of all Detections and Actions signals defined in the GIS table (Ref: 7,
 appendix).
 
-![](./media/media/image13.png){width="6.298611111111111in" height="3.9451388888888888in"}
+![](./media/media/image13.png)
 
 Fig. 11 Detections.
 
@@ -372,21 +371,21 @@ you click on D-7 navigation button, the following screen appears, with all the a
 according to the GIS table (Ref. 7)
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generadamedia/media/image14.png
-automáticamente](./media/media/image14.png){width="6.298611111111111in" height="3.9368055555555554in"}
+automáticamente](./media/media/image14.png)
 
 Fig. 12 Detection Related Actuations.
 
 On the left side of each Detection is placed a switch button that, if the user has the sufficient permissions,
 activates/desactivates the action of bypassing the Detection.
 
-![](./media/media/image15.png){width="6.298611111111111in" height="1.4in"}
+![](./media/media/image15.png)
 
 Fig. 13 Detection inputs information and navigation.
 
 Also, numerical navigation buttons are placed in the botton of the screen to allow navigating throught Detections'
 pages, where are the rest of the Detection signals.
 
-![](./media/media/image16.png){width="1.480524934383202in" height="0.4935083114610674in"}
+![](./media/media/image16.png)
 
 Fig. 14 Detections navigation's pages.
 
@@ -396,14 +395,14 @@ Navigation buttons allow to change between Detection signals and Action signals.
 
 -   A button named "ACTIONS" to show all the Actions managed by the CENTRAL CONTROLLER on the subsystems.
 
-![](./media/media/image16.png){width="5.4029582239720035in" height="0.36813976377952756in"}
+![](./media/media/image16.png)
 
 Fig. 15 Detections / Actions navigation.
 
 When the "ACTIONS" button is pressed, a similar screen is displayed to monitor all the Actions managed by the CENTRAL
 CONTROLLER.
 
-![](./media/media/image17.png){width="6.298611111111111in" height="3.9493055555555556in"}
+![](./media/media/image17.png)
 
 Fig. 16 Actions.
 
@@ -414,7 +413,7 @@ not fired (Green color), so the subsystem is not being affected, or if the Actua
 This screen, as the one with the Detection signals, includes numerical navigation buttons to move between the Actions'
 pages.
 
-![](./media/media/image18.png){width="2.3599682852143484in" height="0.5095374015748031in"}
+![](./media/media/image18.png)
 
 Fig. 17 Actions navigation's pages.
 
@@ -445,7 +444,7 @@ DELAYS: Delay settings of each actuation]{.underline}).
 
 This is placed a navigation buttons to access each screen, Fig. 18.
 
-![](./media/media/image19.png){width="6.298611111111111in" height="0.29930555555555555in"}
+![](./media/media/image19.png)
 
 Fig. 18 Navigation buttons.
 
@@ -453,13 +452,13 @@ In Fig. 19 appears the navigation buttons of the Access/Fire/Earthquake area. Th
 Also, ACTIONS button is in grey color, if a button is in grey color indicates that there is no information related and
 there is no link to any page on that button.
 
-![](./media/media/image20.png){width="6.298611111111111in" height="0.2638888888888889in"}
+![](./media/media/image20.png)
 
 Fig. 19 Navigation buttons -- Access/Fire/Earthquake area.
 
 #### OVERVIEW: Area Controllers Overview
 
-![](./media/media/image21.png){width="6.298611111111111in" height="0.48819444444444443in"}
+![](./media/media/image21.png)
 
 A general overview of the operative status of the safety controllers of this area is shown in the screen.
 
@@ -468,7 +467,7 @@ the controller and some diagnostics coming directly from the CPU. An example is 
 
 On the OVERVIEW screen is also shown the power supply information: power supply redundancy and power supply balancing.
 
-![](./media/media/image22.png){width="6.298611111111111in" height="3.939583333333333in"}
+![](./media/media/image22.png)
 
 Fig. 20 PSS4000 Controller Overview.
 
@@ -478,7 +477,7 @@ the operator. For this kind of controllers, there is also a rearming button pres
 can use this button to rearm the controller if necessary (See point 4.4.2 Rearming a relay based subsystem). A example
 is shown in Fig. 21.
 
-![](./media/media/image23.png){width="6.26956583552056in" height="3.9444444444444446in"}
+![](./media/media/image23.png)
 
 Fig. 21 M2CAM relays overview.
 
@@ -497,13 +496,13 @@ Information is shown besides each one of the relay controller image (see Fig. 22
 -   Reset signal: indicates if the reset output to the subsystem is being activated (colored in green with the text "x"
     if RESET button is pushed) or not (colored in grey with no text if RESET button is not pushed)
 
-![](./media/media/image24.png){width="2.836593394575678in" height="2.2364359142607175in"}
+![](./media/media/image24.png)
 
 Fig. 22 Relay/subsystem diagnostic.
 
 #### DETECTIONS: Incoming Event Status
 
-![](./media/media/image25.png){width="6.298611111111111in" height="0.4618055555555556in"}
+![](./media/media/image25.png)
 
 In this screen, the operator can see the Detection inputs that are coming from the subsystem to the CENTRAL CONTROLLER.
 It shows the hardwired or communicated Detections that are being evaluated by the CENTRAL CONTROLLER and their states.
@@ -526,20 +525,20 @@ example).
 On the left side of each Detection is placed a switch button that, if the user has administrator permissions, can
 activates/desactivates the action of bypassing the Detection. See section [4.5 Bypassing]{.underline} .
 
-![](./media/media/image15.png){width="6.298611111111111in" height="1.4in"}
+![](./media/media/image15.png)
 
 Fig. 23 Detection inputs information and navigation.
 
 In the next figure, as an example, the Detections coming from the TMA IS are shown.
 
-![](./media/media/image26.png){width="6.298611111111111in" height="3.9319444444444445in"}
+![](./media/media/image26.png)
 
 Fig. 24 Detections from TMA IS.
 
 The Detections associated with TMA IS can be seen in the following figure. The source is the GIS interlock table (Ref:
 7).
 
-![](./media/media/image27.png){width="3.1932567804024496in" height="2.3421905074365705in"}
+![](./media/media/image27.png)
 
 Fig. 25 Detections coming from TMA IS.
 
@@ -547,18 +546,18 @@ If the operator selects one of the Detection inputs, with the Navigations button
 all the actuations related to that input will be shown, independently of which subsystem is affected. These actuations
 are according to the GIS Interlock Table of the document 092-308-E-Z-00004.
 
-![](./media/media/image14.png){width="6.298611111111111in" height="3.9368055555555554in"}
+![](./media/media/image14.png)
 
 Fig. 26 Detection Related Actuations.
 
 With the "return" button, the operator can return to the previous screen, where all the Detections related to the area
 to which the action belong are shown.
 
-![](./media/media/image28.png){width="0.4949978127734033in" height="0.3232655293088364in"}
+![](./media/media/image28.png)
 
 #### ACTIONS: Actuations on the subsystem
 
-![](./media/media/image29.png){width="6.298611111111111in" height="0.49722222222222223in"}
+![](./media/media/image29.png)
 
 In this screen, the actuations of the CENTRAL CONTROLLER on each subsystem are shown. These are those defined in the GIS
 Interlock Table of the document 092-308-E-Z-00004.
@@ -567,7 +566,7 @@ The status of each one is shown by a square box. The color of the box represents
 color), so the subsystem is not being affected, or if the Actuation has been fired (red color), and then the subsystem
 is being affected by the respective actuation.
 
-![](./media/media/image30.png){width="6.298611111111111in" height="3.9430555555555555in"}
+![](./media/media/image30.png)
 
 Fig. 27 Actuations on the subsystem (TMA IS).
 
@@ -576,13 +575,13 @@ The list of Actuations related to each area is obtained from the table (Ref: 7).
 Following the example with TMA IS area, Fig. 27 shows the ACTION screen of TMA IS area and the next figure, Fig. 28,
 shows the Actions related to the area obtained from the GIS interlock table (Ref: 7).
 
-![](./media/media/image31.png){width="4.616322178477691in" height="2.2866699475065615in"}
+![](./media/media/image31.png)
 
 Fig. 28 TMA IS Actuations on the table.
 
 #### DELAYS: Delay settings of each actuation
 
-![](./media/media/image32.png){width="6.298611111111111in" height="0.46458333333333335in"}
+![](./media/media/image32.png)
 
 Delay page is only accessible in Access/Fire/Earthquake area, because is the only one that has a Detection that can be
 delayed (if neccesary): D-2 CATASTROPHIC EARTHQUAKE INTERLOCK.
@@ -597,7 +596,7 @@ this screen.
 For example, if a delay time is configured to 200,5ms, it means that when the CENTRAL CONTROLLER detects the D-2
 detection, it will delay 200,5 ms the actions related to D-2.
 
-![](./media/media/image33.png){width="6.298611111111111in" height="3.9319444444444445in"}
+![](./media/media/image33.png)
 
 Fig. 29 Delay settings.
 
@@ -616,7 +615,7 @@ the CENTRAL CONTROLLER will be informed via communication.
 The operator will be able to rearm a subsystem or an element only if it is based on relays. The operator can try to
 rearm a subsystem via the RESET pushbutton located under the subsystem controller graphic.
 
-![](./media/media/image34.png){width="6.298611111111111in" height="3.946527777777778in"}
+![](./media/media/image34.png)
 
 Fig. 30 Rearming buttons.
 
@@ -644,7 +643,7 @@ in, a BYPASS switch button is displayed next to each Detection.
 The administrator will be able to bypass one or more than one Detection signals by pressing the corresponding switch
 button.
 
-![](./media/media/image35.png){width="6.298611111111111in" height="3.9375in"}
+![](./media/media/image35.png)
 
 Fig. 31 Signal bypassing.
 
@@ -652,7 +651,7 @@ The state of the Detection (Error-red/No Error-green) and if the Detection has b
 bypassed-grey) are indicated by two square box. Those indicators are the same as explained in section [4.2 Det-Act:
 Central Controller I/O List]{.underline}.
 
-![](./media/media/image15.png){width="6.298611111111111in" height="1.4in"}
+![](./media/media/image15.png)
 
 Fig. 32 Detection inputs information and navigation.
 
@@ -669,12 +668,12 @@ replaced with this box.
 
 ### Alarm and Diagnostic Screens
 
-![](./media/media/image36.png){width="6.298611111111111in" height="0.37222222222222223in"}
+![](./media/media/image36.png)
 
 Pressing the alarm box located on the bottom of the screens opens the diagnostic and alarm page, where the following
 navigation buttons are placed:
 
-![](./media/media/image37.png){width="6.153159448818897in" height="0.429420384951881in"}
+![](./media/media/image37.png)
 
 Fig. 33 Navigation buttons in Alarm & Diagnostic.
 
@@ -686,7 +685,7 @@ Further information is presented in section [4.6.1]{.underline} and [4.6.2]{.und
 
 There are two type of alarm messages: errors and warnings as it is detailed in section [4.6.3]{.underline}.
 
-![](./media/media/image38.png){width="6.416637139107611in" height="0.37403871391076116in"}
+![](./media/media/image38.png)
 
 The number of actual error and warnings detected are represented on the botton of the screens.
 
@@ -694,7 +693,7 @@ The number of actual error and warnings detected are represented on the botton o
 
 The tables in this screen only contains current messages.
 
-![](./media/media/image39.png){width="6.298611111111111in" height="3.932638888888889in"}
+![](./media/media/image39.png)
 
 Fig. 34 Actual alarms and diagnostic.
 
@@ -708,7 +707,7 @@ DIAGNOSTIC LIST: The diagnostic list only contains current diagnostic messages.
 
 The alarm log records when an alarm or warning message arrived and when it was cleared.
 
-![](./media/media/image40.png){width="6.298611111111111in" height="3.920138888888889in"}
+![](./media/media/image40.png)
 
 Fig. 35 Alarm log.
 
@@ -719,11 +718,11 @@ table.
 
 | TYPE                                                                                   | PRIORITY | NAME             | DESCRIPTION                                      |
 |------------------------|-----------------|------------------------|-------------------------------------------------------|
-| ![](./media/media/image41.png){width="0.4375in" height="0.3854166666666667in"} Error   | 1        | D-X              | Detection signal (D-1, D-2, ..., D-19) text      |
-| ![](./media/media/image41.png){width="0.4375in" height="0.3854166666666667in"}Error    | 1        | Relay            | Relay in unsafe conditions                       |
-| ![](./media/media/image42.png){width="0.4895833333333333in" height="0.34375in"}Warning | 2        | BYP D-X          | Detection signal ( D-1, D-2, ..., D-19) bypassed |
-| ![](./media/media/image42.png){width="0.4895833333333333in" height="0.34375in"}Warning | 2        | PSR / PSB        | Power supply redundancy/balancing                |
-| ![](./media/media/image42.png){width="0.4895833333333333in" height="0.34375in"}Warning | 2        | Internal failure | Internal failure: module                         |
+| ![](./media/media/image41.png)
+| ![](./media/media/image41.png)
+| ![](./media/media/image42.png)
+| ![](./media/media/image42.png)
+| ![](./media/media/image42.png)
 
 Table 1 Error and warning messages kinds.
 
@@ -737,7 +736,7 @@ On the right side of HOME page there is a navigator bar that include the buttons
 
 Also, the name of the current user logged in is shown on the top right side of all the screens.
 
-![](./media/media/image43.png){width="6.298611111111111in" height="3.9618055555555554in"}
+![](./media/media/image43.png)
 
 Fig. 36 User management navigation.
 
@@ -799,7 +798,7 @@ Table 2 Users Levels.
 
 #### Log in / Log out
 
-![](./media/media/image44.png){width="1.0002165354330708in" height="4.069584426946632in"}
+![](./media/media/image44.png)
 
 Fig. 37 Login/Logout button.
 
@@ -809,20 +808,20 @@ conflicts.
 If there is no session opened, by pressing the Login/Logout button opens a popup screen where the user select its user
 name and introduce its password to log in. The user can also change its password from this popup screen.
 
-![](./media/media/image45.png){width="6.298611111111111in" height="3.938888888888889in"}
+![](./media/media/image45.png)
 
 Fig. 38 Log in.
 
 If there is a session opened, by pressing the Login/Logout button appears a popup message to ask the user to end the
 session. If the user accept, the session is closed.
 
-![](./media/media/image46.png){width="6.298611111111111in" height="3.917361111111111in"}
+![](./media/media/image46.png)
 
 Fig. 39 Log out.
 
 #### User management
 
-![](./media/media/image47.png){width="1.0209886264216972in" height="3.8870516185476816in"}
+![](./media/media/image47.png)
 
 Fig. 40 User administration selection button.
 
@@ -835,11 +834,10 @@ button is disabled.
 Administrator users can create new users, with its respective user level and password. At the same time, the
 administrator can edit the current users, modifying their levels and passwords, and
 
-![](./media/media/image48.png){width="6.298611111111111in" height="3.910416666666667in"}
+![](./media/media/image48.png)
 
 Fig. 41 Popup user management screen.
 
 ## Appendix 1
 
-![Tabla Descripción generada automáticamente con confianza baja](./media/media/image50.png){width="9.920833333333333in"
-height="3.5256944444444445in"}
+![Tabla Descripción generada automáticamente con confianza baja](./media/media/image50.png)
