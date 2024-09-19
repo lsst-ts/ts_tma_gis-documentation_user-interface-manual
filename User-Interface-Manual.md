@@ -8,65 +8,6 @@
 | **Approved by:**            | F. Javier López           |
 | **Date:**                   | 2022/08/30                |
 
-## INDEX
-
-[1. Introduction [4](#introduction)](#introduction)
-
-[2. Reference documents [4](#reference-documents)](#reference-documents)
-
-[3. Previous concepts [5](#previous-concepts)](#previous-concepts)
-
-[4. Operator Interface [7](#operator-interface)](#operator-interface)
-
-[4.1 Navigating to each area [8](#navigating-to-each-area)](#navigating-to-each-area)
-
-[4.2 Det-Act: Central Controller I/O List
-[12](#det-act-central-controller-io-list)](#det-act-central-controller-io-list)
-
-[4.3 Subsystem Controllers [16](#subsystem-controllers)](#subsystem-controllers)
-
-[4.3.1 OVERVIEW: Area Controllers Overview
-[17](#overview-area-controllers-overview)](#overview-area-controllers-overview)
-
-[4.3.2 DETECTIONS: Incoming Event Status [19](#detections-incoming-event-status)](#detections-incoming-event-status)
-
-[4.3.3 ACTIONS: Actuations on the subsystem
-[22](#actions-actuations-on-the-subsystem)](#actions-actuations-on-the-subsystem)
-
-[4.3.4 DELAYS: Delay settings of each actuation
-[23](#delays-delay-settings-of-each-actuation)](#delays-delay-settings-of-each-actuation)
-
-[4.4 Rearming Subsystems [25](#rearming-subsystems)](#rearming-subsystems)
-
-[4.4.1 Rearming a PSS4000 based subsystem
-[25](#rearming-a-pss4000-based-subsystem)](#rearming-a-pss4000-based-subsystem)
-
-[4.4.2 Rearming a relay based subsystem [25](#rearming-a-relay-based-subsystem)](#rearming-a-relay-based-subsystem)
-
-[4.5 Bypassing Subsystems [26](#bypassing-subsystems)](#bypassing-subsystems)
-
-[4.5.1 Bypassing a Detection signal [26](#bypassing-a-detection-signal)](#bypassing-a-detection-signal)
-
-[4.5.2 Bypassing a relay signal [27](#bypassing-a-relay-signal)](#bypassing-a-relay-signal)
-
-[4.6 Alarm and Diagnostic Screens [27](#alarm-and-diagnostic-screens)](#alarm-and-diagnostic-screens)
-
-[4.6.1 Alarm List [28](#alarm-list)](#alarm-list)
-
-[4.6.2 Alarm Log [28](#alarm-log)](#alarm-log)
-
-[4.6.3 Alarms and warnings [29](#alarms-and-warnings)](#alarms-and-warnings)
-
-[4.7 User administration [30](#user-administration)](#user-administration)
-
-[4.7.1 User levels [30](#user-levels)](#user-levels)
-
-[4.7.2 Log in / Log out [31](#log-in-log-out)](#log-in-log-out)
-
-[4.7.3 User management [33](#user-management)](#user-management)
-
-[5. Appendix 1 [1](#appendix-1)](#appendix-1)
-
 ## DOCUMENT HISTORY
 
 <table>
